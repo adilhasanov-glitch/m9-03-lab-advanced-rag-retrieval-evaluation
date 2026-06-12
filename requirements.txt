@@ -1,0 +1,6 @@
+google-genai
+chromadb
+numpy
+rank-bm25
+# For the reranking option (cross-encoder):
+sentence-transformers
